@@ -1,7 +1,11 @@
 # insta_clone
-Sure, here's the updated README without the contributing section:
-
 ---
+<p align="center">
+
+<img src="https://github.com/arjunsakthi/insta_clone/assets/75869725/fb47849d-9ecf-477d-826e-735059348992" width="300" height="300" style="margin-right: 100px;">
+
+<img src="https://github.com/arjunsakthi/insta_clone/assets/75869725/6e63778e-4047-4e89-be11-097d3037b8cd" width="300" height="300" style="margin-right: 20px;">
+</p>
 
 # InstaClone
 
@@ -9,7 +13,6 @@ An Instagram clone built with Flutter, featuring efficient state management, Fir
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -24,12 +27,6 @@ An Instagram clone built with Flutter, featuring efficient state management, Fir
 - **User Info Page**: Display detailed user information.
 - **User Search Page**: Search users with a staggered photo display.
 - **Home Page**: View posts and comments.
-
-## Screenshots
-<!-- Add screenshots here -->
-![Home Page](screenshots/home_page.png)
-![User Info Page](screenshots/user_info_page.png)
-![User Search Page](screenshots/user_search_page.png)
 
 ## Installation
 
@@ -68,19 +65,14 @@ instaclone/
 |- android/            # Android-specific files
 |- ios/                # iOS-specific files
 |- lib/                # Main application code
-   |- models/          # Data models
-   |- screens/         # Application screens
-   |- services/        # Firebase and other services
-   |- widgets/         # Reusable UI components
-   |- main.dart        # Application entry point
+   |- model/          # Data models
+   |- provider/       # Application screens
+   |- resource/       # Firebase and other services
+   |- responsive/     # Responsive screens like web or mobile
+   |- screens/        # Reusable UI components
+   |- utils/          # Reusable UI components
+   |- widgets/        # Reusable UI components
+   |- main.dart       # Application entry point
 |- assets/             # Assets (images, fonts, etc.)
 |- test/               # Unit and widget tests
 |- pubspec.yaml        # Project dependencies and metadata
-```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README further to better suit your project.
