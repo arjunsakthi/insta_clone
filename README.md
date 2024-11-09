@@ -1,5 +1,4 @@
-# insta_clone
----
+<h1 align="center">Instagram Clone</h1>
 <p align="center">
 
 <img src="https://github.com/arjunsakthi/insta_clone/assets/75869725/fb47849d-9ecf-477d-826e-735059348992" width="300" height="300" style="margin-right: 100px;">
@@ -7,9 +6,9 @@
 <img src="https://github.com/arjunsakthi/insta_clone/assets/75869725/6e63778e-4047-4e89-be11-097d3037b8cd" width="300" height="300" style="margin-right: 20px;">
 </p>
 
-# InstaClone
-
-An Instagram clone built with Flutter, featuring efficient state management, Firebase Authentication, Firebase Storage, and Firebase NoSQL Database. This project is designed to enhance backend data management and processing skills.
+<p align="center">
+  <em>A Flutter app inspired by Instagram, implementing Firebase and Riverpod for efficient state management. The app is designed for responsiveness across desktop, web, and mobile views, with a solid architecture leveraging Firebase RESTful APIs.</em>
+</p>
 
 ## Table of Contents
 - [Features](#features)
@@ -76,3 +75,8 @@ instaclone/
 |- assets/             # Assets (images, fonts, etc.)
 |- test/               # Unit and widget tests
 |- pubspec.yaml        # Project dependencies and metadata
+```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
